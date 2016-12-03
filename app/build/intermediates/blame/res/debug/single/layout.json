@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ndmain.xml",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\src\\main\\res\\layout\\fragment_ndmain.xml"
+    },
+    {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_view.xml",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\src\\main\\res\\layout\\list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_ndmain.xml",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\src\\main\\res\\layout\\drawer_ndmain.xml"
+    },
+    {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ndmain.xml",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\src\\main\\res\\layout\\activity_ndmain.xml"
+    },
+    {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calendario2.xml",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\src\\main\\res\\layout\\activity_calendario2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_details.xml",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ver_citas.xml",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\src\\main\\res\\layout\\activity_ver_citas.xml"
+    },
+    {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    }
+]

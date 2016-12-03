@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ferna\AndroidStudioProjects\mongodb\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3ba3506a57eb4c70cce0f7980f5739f630bc9d36">
+        <dex dex="C:\Users\ferna\AndroidStudioProjects\mongodb\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e377f221aeb93b0f7240a4fad7a1d569a5087511\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ferna\AndroidStudioProjects\mongodb\app\libs\mongo-2.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09e2c2835b0126a48183ed42129e53b6eb6e259b">
+        <dex dex="C:\Users\ferna\AndroidStudioProjects\mongodb\app\build\intermediates\transforms\dex\debug\folders\1000\2\mongo-2.10.1_2891d38782c8f8f13c4917410174f49b7843b324\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ferna\AndroidStudioProjects\mongodb\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e11d07d2fe69af3d9ad9fde8a0f08af1b6a7f282">
+        <dex dex="C:\Users\ferna\AndroidStudioProjects\mongodb\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b117919049c25b4e4609c6a91f1df3b54457b9c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ferna\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\ferna\AndroidStudioProjects\mongodb\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_fde9a49384e97e4f5d427a2db65f42c1a69ebe25\classes.dex" />
+    </item>
+
+</items>

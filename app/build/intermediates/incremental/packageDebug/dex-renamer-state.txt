@@ -1,0 +1,7 @@
+#Wed Nov 30 10:17:19 MST 2016
+base.0=C\:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b117919049c25b4e4609c6a91f1df3b54457b9c2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e377f221aeb93b0f7240a4fad7a1d569a5087511\\classes.dex
+base.1=C\:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e377f221aeb93b0f7240a4fad7a1d569a5087511
+file.0=C\:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b117919049c25b4e4609c6a91f1df3b54457b9c2\\classes.dex

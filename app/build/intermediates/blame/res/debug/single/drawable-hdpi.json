@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drawer_shadow.9.png",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer.png",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splashdateone.png",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\src\\main\\res\\drawable-hdpi\\splashdateone.png"
+    },
+    {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

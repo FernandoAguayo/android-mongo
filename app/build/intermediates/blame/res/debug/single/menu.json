@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ndmain.xml",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\src\\main\\res\\menu\\ndmain.xml"
+    },
+    {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\mongodb\\app\\src\\main\\res\\menu\\global.xml"
+    }
+]
